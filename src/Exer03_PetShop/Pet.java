@@ -1,3 +1,5 @@
+package Exer03_PetShop;
+
 public class Pet {
 
     private final String name;

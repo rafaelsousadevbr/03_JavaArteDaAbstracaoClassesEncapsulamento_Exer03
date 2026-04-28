@@ -1,3 +1,5 @@
+package Exer03_PetShop;
+
 public class PetMachine {
     private boolean clean;
     private int water;
